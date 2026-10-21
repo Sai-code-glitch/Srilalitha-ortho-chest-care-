@@ -1,0 +1,16 @@
+{
+  "name": "Sri Lalitha Orthopaedic & Chest Care",
+  "short_name": "Sri Lalitha",
+  "description": "Talk to bone, joint and lung specialists in Tenali, explore symptoms and book visits.",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06131F",
+  "theme_color": "#06131F",
+  "lang": "en-IN",
+  "icons": [
+    {"src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
