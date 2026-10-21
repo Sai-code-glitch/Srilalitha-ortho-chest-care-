@@ -5,7 +5,7 @@ Website for **Sri Lalitha Orthopaedic & Chest Care**, Tenali, Andhra Pradesh.
 - **Dr. Talasila Rakesh**, M.B.B.S., M.S. (Orthopaedics), Trauma & Joint Replacement Surgeon (Reg. No. 79178)
 - **Dr. Kavya Yalamanchili**, M.B.B.S., M.D. (Pulmonary Medicine), Consultant Pulmonologist (Reg. No. 95739)
 
-Live site: https://sai-code-glitch.github.io/srilalitha-ortho-chest-care-/
+Live site: https://sai-code-glitch.github.io/Srilalitha-ortho-chest-care-/
 
 ## Features
 

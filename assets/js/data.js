@@ -8,7 +8,7 @@ SL.CONFIG = {
   phoneSecondaryTel: "+919700884467",
   /* WhatsApp number that receives booking requests (country code, no plus sign). Confirm with the front desk. */
   whatsapp: "916305201435",
-  siteUrl: "https://sai-code-glitch.github.io/srilalitha-ortho-chest-care-/"
+  siteUrl: "https://sai-code-glitch.github.io/Srilalitha-ortho-chest-care-/"
 };
 
 /* ---------- Exercise library ---------- */

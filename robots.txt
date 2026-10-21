@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sai-code-glitch.github.io/srilalitha-ortho-chest-care-/sitemap.xml
+Sitemap: https://sai-code-glitch.github.io/Srilalitha-ortho-chest-care-/sitemap.xml
